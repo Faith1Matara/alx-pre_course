@@ -1,1 +1,1 @@
-cat
+echo 'git checkout main'
